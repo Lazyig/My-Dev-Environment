@@ -9,3 +9,4 @@
 [alias]
         log2 = log --oneline --graph --decorate
         merge2 = merge --no-ff
+        smerge = merge --squash
