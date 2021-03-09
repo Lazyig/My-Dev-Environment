@@ -4,22 +4,18 @@
 
 ## 목차
 
-1. **Hyper.js**
-
-   - [적용법](Hyper.js/적용법.md)
-
-2. **Git**
+1. **Git**
 
    - [적용법](Git/적용법.md)
 
-3. **GPG**
+2. **GPG**
 
    - [적용법](GPG/적용법.md)
 
-4. **VSCode**
+3. **VSCode**
 
    - [적용법](VSCode/적용법.md)
 
-5. **NPM**
+4. **NPM**
 
    - [적용법](NPM/적용법.md)
